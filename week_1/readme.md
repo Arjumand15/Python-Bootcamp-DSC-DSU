@@ -40,8 +40,8 @@ In this program,i created a list of dictionary then adding record as an input in
 Here is the output
 
 <p align="center"><img src="../Q2.png"></img></p>
-<br>
-## Question 03. 
+
+## Question 03
 A function that will print lyrics of given song with 1 second delay between each line.
 
    - Use time.sleep()
