@@ -36,11 +36,11 @@ And then output the records in a tabular form with class average, class highest 
 - Input must be user-given
 - (Optional) validate the user input, i.e marks aren't greater 100 and other such validations you think there might be
 
-<br>
-<br>
 Here is the output:
-<p align="center"><img src="Q2.png"></img></p>
 
+<p align="center"><img src="Q2.png"></img></p>
+<br>
+<br>
 ## Question 03. 
 A function that will print lyrics of given song with 1 second delay between each line.
 
@@ -48,4 +48,5 @@ A function that will print lyrics of given song with 1 second delay between each
    - Use split() function of string
 
 Here is the output:
+
 <p align="center"><img src="Q3.png"></img></p>
