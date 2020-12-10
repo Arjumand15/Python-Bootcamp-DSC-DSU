@@ -39,7 +39,7 @@ And then output the records in a tabular form with class average, class highest 
 In this program,i created a list of dictionary then adding record as an input in dictionary then append the dictionaries in to the empty list also reated a function which calculates the highest,average and lowest marks in the record
 Here is the output
 
-<p align="center"><img src="../Q2.png"></img></p>
+<p align="center"><img src="Q3.png"></img></p>
 
 ## Question 03
 A function that will print lyrics of given song with 1 second delay between each line.
