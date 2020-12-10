@@ -36,6 +36,7 @@ And then output the records in a tabular form with class average, class highest 
 - Input must be user-given
 - (Optional) validate the user input, i.e marks aren't greater 100 and other such validations you think there might be
 
+In this program,i created a list of dictionary then adding record as an input in dictionary then append the dictionaries in to the empty list also reated a function which calculates the highest,average and lowest marks in the record
 Here is the output
 
 <p align="center"><img src="../Q2.png"></img></p>
@@ -46,5 +47,6 @@ A function that will print lyrics of given song with 1 second delay between each
    - Use time.sleep()
    - Use split() function of string
 
+In this program, first import library [time] then defined a loop in which song spilit by "\n" and sleep for 1 second after printing 1 line of song 
 Here is the output
 <p align="center"><img src="Q3.png"></img></p>
